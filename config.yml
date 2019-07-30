@@ -1,0 +1,12 @@
+# --- Configuration --- #
+
+show-sethome-message: true
+sethome-message: '&2[&a*&2]&a &aYou now have a new home, &6%player%&a!'
+show-teleport-message: true
+teleport-message: '&2[&a*&2]&a &aTeleporting home in &6%time%&a seconds!'
+show-home-message: true
+home-message: 'Welcome home, &6%player%&a!'
+play-warp-sound: true
+respawn-player-at-home: true
+debug: false
+teleport-delay: 10

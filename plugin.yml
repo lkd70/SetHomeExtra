@@ -1,0 +1,10 @@
+name: Set_Home_Extra
+version: 1.0.0
+author: LKD70
+description: Set your home
+main: me.lkd70.sethomeextra.SetHomeExtra
+commands:
+  sethome:
+    description: Sets your home
+  home:
+    description: Takes you home
